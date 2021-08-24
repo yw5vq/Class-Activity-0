@@ -1,0 +1,3 @@
+Yimin Gao   yg9bq
+I took computer architecture and design in spring sememster and operating system in my undergraduate school. I built a 32-bit RISC-V processor using VHDL as a class project in my CAD course and rewrote the processor using verilog during the summer break. For the programming language, I have experience with C, C++, python and java. 
+I am interested in computer architecture and operating system. I hope I could get familiar with the whole cyber physical system field and do some exciting projects in this class.

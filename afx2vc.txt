@@ -1,0 +1,3 @@
+Ashish Gawali, afx2vc
+I have worked on a few robotics systems during my undergrad. In few on the projects I designed the PCB as well as wrote the code to make the robot run. I have working knowledge AtMega16 and Stm Discovery board.
+I am excited to learn how to develop systems that work concurrently.  

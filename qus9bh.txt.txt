@@ -1,0 +1,4 @@
+Zhenghong Chen, qus9bh
+I have studied embedded systems, C++ programming, engineering modeling and power electronics technology at Chongqing University. Then, I also studied operating system， Digital signal processing and computer architecture at University of Cincinnati.
+I think the fun of learning embedded systems is that we can design control circuits after we have completed systematic learning. For example, I made a small sound for my undergraduate study.
+Zhenghong Chen, qus9bh, https://github.com/Zhenghong-C-LM/Class-Activity-0

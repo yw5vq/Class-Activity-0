@@ -1,0 +1,13 @@
+Conner Ward (cjw5db)
+
+I have taken courses in computer architecture, operating systems, and high
+performance computing, also serving as a Teaching Assistant for the former two
+courses. I do not have any experience with embedded systems, or physically
+interacting with hardware for that matter. I have worked with many programming
+languages, but most significantly with C and Ruby.
+
+I have a wide array of interests within CS, but overall enjoy learning new
+technologies and solving difficult problems. My favorite projects have focused
+on high performance heterogeneous systems, large-scale web applications, and
+general optimization.  I am excited to learn more about hardware in this class,
+to design software with physical constraints, and to create a cool project.

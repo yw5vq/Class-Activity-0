@@ -1,0 +1,5 @@
+Yimin Gao   yg9bq
+
+I took computer architecture and design in spring sememster and operating system in my undergraduate school. I built a 32-bit RISC-V processor using VHDL as a class project in my CAD course and rewrote the processor using verilog during the summer break. However, I don't have any previous experience with embedded system. For the programming language, I am familiar with most of the popular language nowadays and fluent in C++ and python. 
+
+I am currently motivated in computer architecture, and especially in RTL design and hardware acceleration. I hope I could get familiar with the whole cyber physical system field and do some exciting projects in this class.

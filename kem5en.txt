@@ -1,0 +1,4 @@
+Katherine (Katie) Martins kem5en
+I took Embedded Computing and Robotics I as well as Computer Architecture during my undergrad here at UVA. I have used the MSP-EXP432P401R LaunchPad in the embedded computing course and 
+have used C/C++ and Assembly for embedded computing. My main interests are software testing, machine learning, and autonomous systems. I currently work for a company that creates autonomous 
+aircraft where I work on flight test simulations. I am taking this course to increase my understanding of embedded systems and RTOS and apply these skills where I work. 

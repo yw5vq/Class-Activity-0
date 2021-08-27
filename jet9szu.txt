@@ -1,0 +1,3 @@
+Jared Tyranski, jet9szu
+Some background for embedded design includes EARS I & II at UVA (Special topics ECE 3501 & 3502), C and C++ for coding, and using Arduino for a Summer Internship utlizing Embedded design to perform specific tasks.
+Some of my interests include video games such as Pokemon and working out at home. I hope to be able to take away a deeper understanding of Embedded design since I grew to enjoy this more after my Summer Internship and would love to work with these systems or help create them in a future job setting after college.

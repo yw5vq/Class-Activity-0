@@ -1,0 +1,4 @@
+Name      : Viswajith Govinda Rajan
+UVA ID    : gyx4bw
+Experience: I have worked on arduino projects and have taken OS, Embedded Systems Design, Computer Networks, DSP, etc during my undergrad. Since then I have worked in the industry for 2.5 years. My work was primarily in the field of IoT devices firmware, sensor networks where I worked on setting up the LoRa server and helped design LoRa modules. I also built a rudimentary android application to interface the products with the user. 
+Interests : My areas of interest are IoT devices, Sustainability and Smart Devices. I look forward to this class, because most of the problems I want to tackle have impact in real time, and it would be great to design a system that operates with real time constraints to minimize the potential ramifications. I also believe I will enjoy this class, so I look forward to that.

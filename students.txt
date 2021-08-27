@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Chenyang Zhong, cz7rd, https://github.com/chenyang-z/Class-Activity-0
 Julia Rudy, jr7yj, https://github.com/jmaryar/Class-Activity-0.git
 Viswajith Govinda Rajan, gyx4bw, https://github.com/viswajith-g/Class-Activity-0
 Zichuan Guo, zst2ym, https://github.com/SamGuo0717/Class-Activity-0

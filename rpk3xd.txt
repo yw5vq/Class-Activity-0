@@ -1,0 +1,7 @@
+Roman Kaker, rpk3xd
+Background:
+To be completely transparent, my work with embedded systems is quite limited. The only experience I have is due to my enrollment in ECE 3430 in which we were introduced to embedded systems. While enrolled in
+the class we worked with the MSP430 microcontroller which required code in C and at times assembly.
+Interests:
+I am extremely excited to dive deeper into embedded systems and how they work together/concurrently to provide for solutions to real world problems. I would say that my interests are more aligned with that
+of a programmer but am very open-minded to broadening my expertise.

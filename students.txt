@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Mason Notz, mrn5aa, https://github.com/Masonzton/Class-Activity-0
 Steven Peng, sjp3cv, https://github.com/stpeng/Class-Activity-0
 Dylan Cao, dvc8bg, https://github.com/Rayhawk11/Class-Activity-0
 Chenyang Zhong, cz7rd, https://github.com/chenyang-z/Class-Activity-0

@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Eric Csehoski, edc7hs, https://github.com/edc7hs/Class-Activity-0.git
 Kellan Delaney, ked2pf, https://github.com/KellanED/Class-Activity-0
 Catlinh Nguyen, cn2jg, https://github.com/catlinh-nguyen/Class-Activity-0
 Brandon Brnich, bmb7qbg, https://github.com/brandonbrnich/Class-Activity-0

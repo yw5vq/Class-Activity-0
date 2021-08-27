@@ -1,0 +1,6 @@
+G. Michael Fitzgerald, gmf5de
+
+I have not previously taken an embedded systems course, however I took computer architecture and operating systems courses during my time as an undergraduate. Additionally, I have decent experience with small hobbyist hardware such as Arduino (various types) and Raspberry Pi. I am familiar with most of the programming languages commonly used today, ranging from high level scripting languages like Python and JS to lower level compiled languages like C/C++.
+
+My interests are primarily associated with Cyber Physical Systems and the application of computer science principles in the creation of physical devices that improve daily life. I enrolled in this course to spend some more time on the physical side of technology, something that was missing from my CS undergraduate experience. I am currently researching the intersection of cloud services and data-producing IoT devices/sensors, specifically how these cloud services can be constructed in a way which minimizes the time required to set up new sensors.
+

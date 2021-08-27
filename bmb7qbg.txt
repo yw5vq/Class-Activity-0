@@ -1,0 +1,14 @@
+Brandon Brnich, bmb7qbg
+
+My experience in embedded programming comes from both of the embedded courses offered to undergraduates
+here at the university. I also TA for EAR 1; so I have a lot of passion for this topic! In terms of
+other relevant courses, I have done computer architecture with Professor Williams; no OS experience. 
+I know how to work with the TI MSP432 and the arduino. I can program in java, python, and C/C++.
+
+I have high expectactions for this class. Embedded systems is something that I can see myself working in
+for the rest of my life. I want this semester to give me an idea on if this is actually a feasible area for 
+me to go into. The last two embedded courses I have taken have been a great introduction, but they aren't
+a practial basis for me to decide my career. I want to have an understanding of what actual embedded work will look like, 
+meaning the design of an RTOS. Furthermore, I took this course because I have heard it makes undergraduate OS more
+bearable. Essentially, I want this course to help guide me in my decision about my future and provide a friendly (and fun)
+introduction to operating systems.

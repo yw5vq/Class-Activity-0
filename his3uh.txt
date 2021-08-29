@@ -1,5 +1,5 @@
 Hafsah Shamsie (his3uh)
 
-In terms of my background in embedded, I have taken EAR 1 and 2 and also ECE comp-arch. I don\'92t have experience in operating systems as yet. I know how to program in Java, Python, and C++/C as well.
+In terms of my background in embedded, I have taken EAR 1 and 2 and also ECE comp-arch. I don't have experience in operating systems as yet. I know how to program in Java, Python, and C++/C as well.
 
 I have really enjoyed learning about embedded systems in previous coursework, so I am looking forward to getting a deeper understanding of the topic through this class. I have also considered working in embedded systems as a potential career choice, so I am hoping that taking this course will also help me decide if that is a path I want to follow.

@@ -1,0 +1,3 @@
+Sean Benish, spb5yw
+I have taken ECE 4430, ECE 4435, and CS 4414.  Most of my embedded experience comes from the MSP430 from 4430, with the projects ranging from interfacing with flash storage, human-input and display devices, and more.  I am very confomfortable in embedded C, familiar with Assembly, and would love to learn more.
+As someone whose done a lot of software, I am interested in seeing the boundaries of what embedded devices can do.  From this course, I desire to continue to practice embedded design as well as to expand my skillset and explore new ideas and techniques that I would have never used in the past.

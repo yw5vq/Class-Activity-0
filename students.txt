@@ -19,6 +19,7 @@ Ashish Gawali, afx2vc, https://github.com/ashish-gawali/Class-Activity-0
 G. Michael Fitzgerald, gmf5de, https://github.com/tic/Class-Activity-0
 Conner Ward, cjw5db, https://github.com/cjw5db/Class-Activity-0
 Marshall Clyburn, mdc5pv, https://github.com/mdclyburn/Class-Activity-0
+Ethan Blaser, ehb2bf, https://github.com/blaserethan/Class-Activity-0
 Maya Chambers, mnc6tm, https://github.com/mayachambers/Class-Activity-0
 Feng Yi Chang, fc4wa, https://github.com/AustinFengYi/Class-Activity-0
 Nile Alkebulan, nba5ne, https://github.com/NileA/Class-Activity-0

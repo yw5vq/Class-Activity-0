@@ -1,0 +1,3 @@
+Nile Alkebulan, nba5ne
+My background in embedded systems include Embedded computing Robotics I and II, computer architecture and working on controls systens that incorporated PLCs during my summer internship. I have programmed in C, C++, and ladder logic.
+Some of my interests include control systems, medical devices and IoT. I expect to have a better understanding of how micro-controllers work and how they are used in Cyber-Physical Systems. After taking this class I hope to understand the broader topic embedded systems to expand on my prior knowledge.

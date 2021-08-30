@@ -1,0 +1,6 @@
+Feng Yi Chang, fc4wa
+
+I used to take computer architecture and operating systenms for undergraduate students in the previous years. As for programming languages, I'm not only proficient in high-level language like Javascript and Python, but also in low-level language such as C and C++ a little bit. Though my interest is mainly focused on full-stack web development, my hobbies also include using microcontroller to create some interesting IoT projects.
+
+In my previous projects, I ever used Arduino or RasPi4 to interact with sensor devies or actuators and do IoT applications for the real world. I think I'm still a beginner when it comes to the knowledge of embedded systems. I'm very excited to learn more by taking this course and hope to apply the skills in the future.
+

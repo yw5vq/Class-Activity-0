@@ -1,0 +1,8 @@
+Maya Chambers mnc6tm
+
+Over the past year, I have taken Embedded Computing & Robotics I and II, along with Computer Architecture. In addition, I am currently taking 
+Operating Systems and Capstone. This has led me to work with MSP-EXP432P401R LaunchPad for the majority of my experience. The programming languages I used 
+while working on embedded projects has mainly been C and C++.
+
+I look forward to the study of embedded systems in this class because I am interested in autonomous driving. I'm hoping that I can get a more 
+in depth understanding of these systems and microcontollers so that I can pursure this as a possible field once I graduate.

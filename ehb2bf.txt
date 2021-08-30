@@ -1,0 +1,12 @@
+Ethan Blaser (ehb2bf)
+
+I am a graduate student in the computer science department. I have taken classes in computer architecture and operating sytems which both used C and x86 Assembly. I've also 
+interned at an aerospace startup company where I was writing some embedded systems code that ran on a PIC 
+microcontroler.
+
+My intest in real time embedded systems stems from my experiences at a startup satellite company. Since my interests are primarily in the aerospace field,
+I want to learn how to develop systems that are reliable in harsh and computationally limited environment of space. 
+My parents are both software engineers who do real time embedded software for their jobs and they expressed the 
+importance for me to learn how to develop these kinds of systems if I want to be a successful and well rounded 
+engineer. I want to learn about real time operating systems, and how they handle and respond to exceptions with their ISR's in a timely manner. Also I want to learn
+about concurrency in real time embedded systems and how threads are managed and switched to in a highly time constrained environment.

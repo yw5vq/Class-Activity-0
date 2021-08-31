@@ -1,0 +1,5 @@
+Matthew Walters mw2gd
+
+I have taken a computer architecture class, where we examined the hardware and worked in assembly. I have also taken a software design class where we worked with raspberry pies. I am familar with micro-controllers (arduino) but have never worked with them. I am familiar with Java, Python, C, Javascript, Mips.
+
+I am not sure where my interests are. Computer Science is a large field. I am hoping to discover what I want to focus on. I also think small computers are cool. It would be nice to learn how to deal with micro-contollers as they can be used in personal projects as well as in industry.

@@ -1,0 +1,14 @@
+Bassam Mohmaud - bm7tu
+
+I took ECR 1 and currently enrolled into ECR 2. In these classes, we work with the
+micro processor TI MSP432 to build a robot that Completes various functions.
+For example: Last semester we configred light and bumb senseors as well as motors for
+the robot so that it would be able to follow a line on the floor.
+I also tinkered with arduino and Raspberry Pi a while ago.
+
+I enrolled into this class because I'm a CPE Major and wanted more hands on exprience 
+with microprocessors and embedded systems. The class curriculum seems interesting and 
+full of topics I would like to know more about.
+
+https://github.com/bassam55/Class-Activity-0
+

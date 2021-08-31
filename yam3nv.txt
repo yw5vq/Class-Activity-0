@@ -1,3 +1,3 @@
 Yudel Martinez - yam3nv
-I've taken EE CompArch and OS, and I've also taken and TAd EAR1 and EAR2. I'm involved in a research project that is using wearable devices and deployable IoT sensors to monitor and predict pain episodes in cancer patients. I have done the hardware and software for the IoT sensors using the Raspberry Pi Zero W on a Broadcom BCM2835 SoC. I've also done robotics work in the past. 
-Yudel Martinez, yam3nv, https://github.com/yamartinez/Class-Activity-0
+I've taken EE CompArch and OS, and I've also taken and TAd EAR1 and EAR2. I'm involved in a research project that is using wearable devices and deployable IoT sensors to monitor and predict pain episodes in cancer patients. I have done the hardware and software for the IoT sensors using the Raspberry Pi Zero W on a Broadcom BCM2835 SoC. I've also done robotics work in the past.
+

@@ -1,0 +1,5 @@
+Steven Peng - sjp3cv
+
+Background: EARS I & II, Computer Architecture, OS, ESP32-powered Dog Shock Collar, C/C++, Java, Python, MATLAB, and probably some other things that I don't recall at the moment. 
+
+Interests: I'm interested in learning more about embedded systems and the various applications of embedded systems, and I figure this class is a wonderful way of learning a variety of ways of interacting with them. General hobbies of mine include motorsports, light gaming, and cybersecurity! In the end, I hope to be able to tackle more complex embedded projects on my own time, especially those that lean towards the IoT industry. 

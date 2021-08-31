@@ -1,0 +1,3 @@
+Eric Csehoski, edc7hs
+I've taken ECR 1 and 2, and worked with the MSP432, as well as a myRIO. For embedded, I've worked in C.
+Some of my interests include audio electronics and wireless communications. After this class, I hope to be able to work with new microcontrollers without too much of a learning curve.

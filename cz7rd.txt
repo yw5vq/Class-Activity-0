@@ -1,0 +1,5 @@
+Chenyang Zhong - cz7rd
+
+I have not taken any classes on embedded systems and have only briefly fiddled with microcontrollers. I do have lots of experience in computer architecture and computer processor design during my undergraduate and graduate level studies. I actively participate in the android open source community, which is not referring to android apps, but the android operating system, its HALs and drivers, and the linux kernel. I am also familiar with C and C++.
+
+I feel like I have more or less encountered and interacted with concepts and ideas in embedded systems many times, so I would like to take this chance to systematically learn embedded systems.

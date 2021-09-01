@@ -1,0 +1,8 @@
+Matthew Walsh (mw6es)
+
+I don't have a ton of experinece in embedded systems, the only similar class
+that I have taken was CS3501: Embedded Computing and Robotics 1.
+
+I am interested in learning more about embedded systems as I have a background
+in software and would like to learn more about the hardware side of things.
+I am interested in autonomous systems and computer vision.

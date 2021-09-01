@@ -1,0 +1,4 @@
+Alexander Byrd, azb3vd
+I have taken EARS 1 & 2. I know C, Java, and Python. I worked with an ATMEGA1284p during my internship over summer.
+I hope to learn good coding and commenting practices for embedded coding and strengthen my understanding of the many Assembly functions and their purposes. I am also interested in medical applications that I would use embedded software to desgin. 
+  

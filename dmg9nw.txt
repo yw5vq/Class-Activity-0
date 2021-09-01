@@ -1,0 +1,5 @@
+Deianira Griffith - dmg9nw
+I will be frank I have very little experience with embedded systems, the closest class I've taken is DLD. I had some exposure to them during a summer project back in High School. Where we used an Arduino microcontroller.
+I have experience in C/C++, Java, and Python.
+
+I'm honestly not sure what to expect from this class. Part of my enrollment was my needing a class to fill out a slot on my schedule, but I am genuinely interested in the class! I've always been interested in the hardware end of things, as I've done more software work than anything else. In a way I hope this course will be a crash course of sorts on embedded systems so that in the future I'll have hands-on knowledge to recall on.

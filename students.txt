@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Mary DeSimone, med3pa, https://github.com/med3pa/Class-Activity-0
 Mason Notz, mrn5aa, https://github.com/Masonzton/Class-Activity-0
 Steven Peng, sjp3cv, https://github.com/stpeng/Class-Activity-0
 Dylan Cao, dvc8bg, https://github.com/Rayhawk11/Class-Activity-0
@@ -33,3 +34,6 @@ Matthew Walters, mw2gd, https://github.com/mw2gd/Class-Activity-0
 Matthew Walsh, mw6es, https://github.com/mattw65/Class-Activity-0
 Devin Gardner, deg9hc, https://github.com/DevinEGardner/Class-Activity-0
 Kendall Livesay, krl7ee, https://github.com/klive614/Class-Activity-0
+John Kothmann, jek5bh, https://github.com/kothmann1/Class-Activity-0
+Deianira Griffith, dmg9nw, https://github.com/Deianira-Griffith/Class-Activity-0
+Alexander Byrd, azb3vd, https://github.com/rotom303/Class-Activity-0

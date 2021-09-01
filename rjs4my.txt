@@ -1,0 +1,6 @@
+Name: Rex Serpe
+UVA ID: rjs4my
+
+My previous embedded experience is mostly from internships. Additionally, I've taken the EAR sequence at UVa. Most of the embedded programming I know I learned from doing projects- one of my favorites was a solar alarm clock that opened my blinds in the morning instead of waking me up with noise. I've worked with MSP432, Arduino, and STM32 microcontrollers. In terms of coding languages, I'm mostly familiar with C/C++, but also have experience in Python.
+
+In taking this class I hope to attain a deep understanding of how a real-time operating system works, both to help me design such pieces of software but also to help inform my work on systems that utilize them. My professional interest are mostly in the renewable energy and space exploration industries, which rely heavily on embedded processors. I want to become a better embedded developer so that I can contribute more in these fields.

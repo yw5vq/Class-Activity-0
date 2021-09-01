@@ -1,0 +1,5 @@
+Alex Tomiak amt7ux
+
+I have taken embedded robotics I and II (using TI's MSP432, C, and a bit of assembly), and ECE's computer architecture class (VHDL). I worked with stm32 microcontrollers on night vision goggles last summer using C/C++/C#. The software tools were either Visual Studio or an Eclipse-based C editor.
+
+I am very interested in learning more about RTOS and cyber physical systems--I like writing software that attempts to model the world around it and use it in some useful way. I hope that this class prepares me for the bigger embedded software role I will take on this spring--I really enjoyed getting a taste of this job during my internship, and I am looking forward to going back with even more knowledge and experience on how to improve goggle performance.

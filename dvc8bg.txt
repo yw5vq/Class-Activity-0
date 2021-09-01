@@ -1,0 +1,3 @@
+Dylan Cao <dvc8bg>
+Have taken Computer Architecture as well as Operating Systems, familiar with C/C++, Python, Java, Dart, limited experience with Arduino and Raspberry Pi platforms
+I'm interested in IoT and low-level computing. Not sure exactly what I expect from the class yet, but I hope to have some knowledge to be able to use embedded systems in personal projects (e.g., self-made smart home projects). Also interested in mobile applications and privacy.

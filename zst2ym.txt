@@ -1,0 +1,3 @@
+Zichuan Guo
+zst2ym
+I have taken undergraduate course like Computer Architecture, Operating System, and also done the embedded system security project mainly focus on the ID card security and related Arduino application

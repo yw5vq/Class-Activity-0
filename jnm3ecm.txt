@@ -1,0 +1,2 @@
+Name & Computing ID: Jack (James) McDowell, jnm3ecm
+I've taken hardware security, computer organization and architecture I and II, and operating systems. I am somewhat familiar with ARM, and I have a lot of familiarity with x86, C, and C++ (among other higher level languages).

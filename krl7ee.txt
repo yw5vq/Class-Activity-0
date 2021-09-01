@@ -1,0 +1,11 @@
+Kendall Livesay (krl7ee)
+
+I have taken both embedded robotics and computing courses that began being offered F19,
+computer architecture and design for electircal and computer engineering majors, and 
+operating systems. I have worked with the MSP432 microcontorller and used C, C++, and VHDL.
+
+I am interested in how hardware and software work together on the most granular level and I 
+hope to gain more knowledge on embedded design and how to effciently structure code for real
+time operating systems.
+
+
